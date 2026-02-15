@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fsocietyx404&label=Profile%20Views&color=00ff00&style=flat" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:001100&height=3"/>
 </p>
 
@@ -20,9 +24,8 @@
 - **Currently Strengthening:** C++ / C#  
 - **Environment:** Linux-based systems  
 
-I am focused on building a deep technical foundation.  
-Not interested in surface-level knowledge or tool dependency.  
-Goal: understand how systems behave internally — memory, processes, networking, and execution flow.
+I focus on deep technical understanding.  
+Not tool usage — system behavior.
 
 ---
 
@@ -32,50 +35,25 @@ Goal: understand how systems behave internally — memory, processes, networking
   <img src="https://skillicons.dev/icons?i=python,cpp,cs,linux,bash,git,vscode" />
 </p>
 
-### Languages
-- Python (automation, scripting, tool development)
-- C++ (low-level logic, memory handling, system behavior)
-- C# (structure & application development)
-
-### Environment
-- Linux CLI workflows  
-- Bash scripting  
-- Git version control  
-- VS Code development setup  
-
 ---
 
-## 🔐 Cybersecurity Focus Areas
+## 🔐 Cybersecurity Direction
 
-- Network fundamentals & packet flow  
-- Operating system structure  
+- Network fundamentals & packet structure  
+- Operating system internals  
 - Process & memory behavior  
 - Secure coding principles  
-- Vulnerability concepts (buffer overflows, misconfigurations, logic flaws)  
-- Automation of repetitive security tasks  
-
-Long-term direction: offensive security with strong technical depth.
-
----
-
-## 🧠 Current Development Path
-
-- Building structured security utilities in Python  
-- Writing small low-level C++ programs to understand memory & execution  
-- Studying networking layers (TCP/IP, ports, services)  
-- Improving debugging & problem-solving discipline  
-- Learning how tools work internally rather than just running them  
+- Vulnerability concepts  
+- Automation & scripting  
 
 ---
 
 ## 🛠 Active Projects
 
-- Security-focused Python scripts  
-- Experimental automation frameworks  
-- C++ system experiments  
+- Security-oriented Python utilities  
+- C++ low-level experiments  
+- Automation systems  
 - Structured learning repositories  
-
-More complex tools and frameworks planned as knowledge deepens.
 
 ---
 
@@ -83,7 +61,11 @@ More complex tools and frameworks planned as knowledge deepens.
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=fsocietyx404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsocietyx404&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=fsocietyx404&theme=tokyonight&hide_border=true&background=000000" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-activity-graph.vercel.app/graph?username=fsocietyx404&theme=tokyo-night&bg_color=000000&hide_border=true" />
 </p>
 
 ---
@@ -91,20 +73,10 @@ More complex tools and frameworks planned as knowledge deepens.
 ## 🎯 Long-Term Objectives
 
 - Build a structured pentesting framework  
-- Achieve strong low-level programming skills  
+- Master low-level programming  
 - Deep understanding of operating systems  
-- Contribute to serious open-source security projects  
-- Develop disciplined, production-level coding habits  
+- Contribute to security-related open source  
 - Transition from learner to builder  
-
----
-
-## 🧩 Principles
-
-- Understand before exploiting  
-- Build before relying  
-- Depth over speed  
-- Discipline over hype  
 
 ---
 
