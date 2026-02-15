@@ -1,54 +1,92 @@
 <h1 align="center">fsocietyx404</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=24&center=true&vCenter=true&width=600&lines=Wake+Up.;Cybersecurity+Enthusiast;Python+Developer;Future+Pentester;We+Are+fsociety." />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=23&center=true&vCenter=true&width=850&lines=Future+Pentester;Cybersecurity+Enthusiast;Python+Developer;Low-Level+Systems+Learner;We+Understand+Systems." />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:001100&height=2&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:001100&height=3"/>
 </p>
 
 ---
 
 ## 🖤 Identity
 
+- **Name:** fsocietyx404  
+- **Age:** 17  
+- **Location:** Germany 🇩🇪  
+- **Focus:** Cybersecurity / Pentesting  
+- **Main Language:** Python 🐍  
+- **Currently Improving:** C++ / C#  
+- **Environment:** Linux ⚙  
 
-> whoami
-fsocietyx404
+I’m focused on understanding systems deeply —  
+not just running tools, but knowing what happens behind them.
 
-> age
-17
+---
 
-> location
-Germany
+## ⚔️ Arsenal
 
-> focus
-Cybersecurity / Pentesting
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,linux,bash,git,vscode" />
+</p>
 
-> main_language
-Python
+**Core Strengths**
+- Automation & scripting  
+- Structured problem solving  
+- System-oriented thinking  
+- Clean and disciplined code  
 
-> learning
-C++ & C#
+---
 
-⚔️ Arsenal
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,cs,linux,bash,git,vscode" /> </p>
-📊 System Stats
-<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=fsocietyx404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsocietyx404&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" /> </p>
-🎯 Current Operations
+## 🔐 Current Direction
 
-    🔐 Building security tools in Python
+- Building security-focused Python tools  
+- Studying advanced pentesting concepts  
+- Learning memory behavior & low-level mechanics  
+- Strengthening networking fundamentals  
+- Developing structured automation systems  
 
-    🕵️ Learning advanced Pentesting
+---
 
-    ⚙️ Improving low-level programming
+## 📊 System Metrics
 
-    🤖 Developing Discord automation
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=fsocietyx404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsocietyx404&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" />
+</p>
 
-🧠 Philosophy
+---
 
-    Control is an illusion.
-    We don't hack the system.
-    We understand it.
+## 🧠 Projects
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:003300&height=120&section=footer"/> </p> ```
+- 🔒 Security-oriented Python utilities  
+- 🧪 Experimental C++ system programs  
+- 🤖 Automation frameworks  
+- 🛠 Structured learning builds  
+
+More advanced releases planned.
+
+---
+
+## 🎯 2026 Objectives
+
+- Build a custom pentesting framework  
+- Achieve strong C++ proficiency  
+- Deep understanding of operating systems  
+- Contribute to serious security projects  
+- Refine discipline & technical depth  
+
+---
+
+## 🧩 Philosophy
+
+> Control is an illusion.  
+> We don’t hack blindly.  
+> We understand the system.
+
+Stay disciplined. Stay focused. 🚀
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:003300&height=100&section=footer"/>
+</p>
