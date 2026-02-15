@@ -1,11 +1,7 @@
 <h1 align="center">fsocietyx404</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=24&center=true&vCenter=true&width=600&lines=Wake+Up.;Cybersecurity+Enthusiast;Python+Developer;Future+Pentester;We+Are+fsociety." />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:001100&height=2&section=header"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=24&center=true&vCenter=true&width=600&lines=Future+Pentester;Cybersecurity+Enthusiast;Python+Developer;We+Are+fsociety." />
 </p>
 
 ---
@@ -34,7 +30,7 @@ C++ & C#
 ⚔️ Arsenal
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,cs,linux,bash,git,vscode" /> </p>
 📊 System Stats
-<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=fsocietyx404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsocietyx404&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" /> </p>
+<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=fsocietyx404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" /> </p> <p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsocietyx404&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" /> </p>
 🎯 Current Operations
 
     🔐 Building security tools in Python
@@ -48,7 +44,7 @@ C++ & C#
 🧠 Philosophy
 
     Control is an illusion.
-    We don't hack the system.
+    We don’t hack the system.
     We understand it.
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:003300&height=120&section=footer"/> </p> ```
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:003300&height=120&section=footer"/> </p>
