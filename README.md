@@ -1,76 +1,54 @@
-# fsocietyx404
+<h1 align="center">fsocietyx404</h1>
 
-> 17 y/o self-taught Cybersecurity enthusiast from Germany 🇩🇪  
-> Focused on Pentesting, Python & Low-Level Systems
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=24&center=true&vCenter=true&width=600&lines=Wake+Up.;Cybersecurity+Enthusiast;Python+Developer;Future+Pentester;We+Are+fsociety." />
+</p>
 
----
-
-## 🧠 About Me
-
-- 🔐 Passionate about Cybersecurity & Ethical Hacking  
-- 🐍 Main Language: Python  
-- 💻 Currently learning: C++ & C#  
-- 🛡️ Interested in Pentesting & System Security  
-- 🚀 Building skills independently  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:001100&height=2&section=header"/>
+</p>
 
 ---
 
-## ⚔️ Tech Stack
+## 🖤 Identity
 
-**Languages**
-- Python
-- C++
-- C#
+```bash
+> whoami
+fsocietyx404
 
-**Tools**
-- Linux
-- Git
-- VS Code
-- Bash
+> age
+17
 
----
+> location
+Germany
 
-## 📈 Skill Progress
+> focus
+Cybersecurity / Pentesting
 
-Python        █████████░ 90%  
-C++           ██████░░░░ 60%  
-C#            █████░░░░░ 50%  
-Linux         ███████░░░ 70%  
-Cybersecurity ████████░░ 80%  
+> main_language
+Python
 
----
+> learning
+C++ & C#
 
-## 🎯 Current Focus
+⚔️ Arsenal
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,cs,linux,bash,git,vscode" /> </p>
+📊 System Stats
+<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=fsocietyx404&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsocietyx404&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" /> </p>
+🎯 Current Operations
 
-- Building security tools in Python  
-- Learning advanced pentesting techniques  
-- Improving low-level programming knowledge  
-- Developing Discord bots  
+    🔐 Building security tools in Python
 
----
+    🕵️ Learning advanced Pentesting
 
-## 🧩 Projects
+    ⚙️ Improving low-level programming
 
-- 🤖 Discord Bot Development  
-- 🔐 Security-related Python tools  
-- 🧠 Personal learning experiments  
+    🤖 Developing Discord automation
 
-(More coming soon…)
+🧠 Philosophy
 
----
+    Control is an illusion.
+    We don't hack the system.
+    We understand it.
 
-## 🎯 Goals 2026
-
-- [ ] Build a custom pentesting framework  
-- [ ] Master C++  
-- [ ] Contribute to open-source security projects  
-- [ ] Deepen knowledge in system internals  
-
----
-
-## 🖤 Philosophy
-
-> "Control is an illusion."  
-> — Mr. Robot  
-
-Stay curious. Stay disciplined.
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:003300&height=120&section=footer"/> </p> ```
