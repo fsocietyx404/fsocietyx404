@@ -1,7 +1,7 @@
 <h1 align="center">fsocietyx404</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=23&center=true&vCenter=true&width=850&lines=Future+Pentester;Cybersecurity+Enthusiast;Python+Developer;Low-Level+Systems+Learner;We+Understand+Systems." />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=23&center=true&vCenter=true&width=900&lines=Future+Pentester;Cybersecurity+Enthusiast;Python+Developer;Low-Level+Systems+Learner;Understanding+Over+Exploitation." />
 </p>
 
 <p align="center">
@@ -15,37 +15,67 @@
 - **Name:** fsocietyx404  
 - **Age:** 17  
 - **Location:** Germany 🇩🇪  
-- **Focus:** Cybersecurity / Pentesting  
-- **Main Language:** Python 🐍  
-- **Currently Improving:** C++ / C#  
-- **Environment:** Linux ⚙  
+- **Focus:** Cybersecurity / Offensive Security  
+- **Primary Language:** Python 🐍  
+- **Currently Strengthening:** C++ / C#  
+- **Environment:** Linux-based systems  
 
-I’m focused on understanding systems deeply —  
-not just running tools, but knowing what happens behind them.
+I am focused on building a deep technical foundation.  
+Not interested in surface-level knowledge or tool dependency.  
+Goal: understand how systems behave internally — memory, processes, networking, and execution flow.
 
 ---
 
-## ⚔️ Arsenal
+## ⚔️ Technical Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,cs,linux,bash,git,vscode" />
 </p>
 
-**Core Strengths**
-- Automation & scripting  
-- Structured problem solving  
-- System-oriented thinking  
-- Clean and disciplined code  
+### Languages
+- Python (automation, scripting, tool development)
+- C++ (low-level logic, memory handling, system behavior)
+- C# (structure & application development)
+
+### Environment
+- Linux CLI workflows  
+- Bash scripting  
+- Git version control  
+- VS Code development setup  
 
 ---
 
-## 🔐 Current Direction
+## 🔐 Cybersecurity Focus Areas
 
-- Building security-focused Python tools  
-- Studying advanced pentesting concepts  
-- Learning memory behavior & low-level mechanics  
-- Strengthening networking fundamentals  
-- Developing structured automation systems  
+- Network fundamentals & packet flow  
+- Operating system structure  
+- Process & memory behavior  
+- Secure coding principles  
+- Vulnerability concepts (buffer overflows, misconfigurations, logic flaws)  
+- Automation of repetitive security tasks  
+
+Long-term direction: offensive security with strong technical depth.
+
+---
+
+## 🧠 Current Development Path
+
+- Building structured security utilities in Python  
+- Writing small low-level C++ programs to understand memory & execution  
+- Studying networking layers (TCP/IP, ports, services)  
+- Improving debugging & problem-solving discipline  
+- Learning how tools work internally rather than just running them  
+
+---
+
+## 🛠 Active Projects
+
+- Security-focused Python scripts  
+- Experimental automation frameworks  
+- C++ system experiments  
+- Structured learning repositories  
+
+More complex tools and frameworks planned as knowledge deepens.
 
 ---
 
@@ -58,34 +88,32 @@ not just running tools, but knowing what happens behind them.
 
 ---
 
-## 🧠 Projects
+## 🎯 Long-Term Objectives
 
-- 🔒 Security-oriented Python utilities  
-- 🧪 Experimental C++ system programs  
-- 🤖 Automation frameworks  
-- 🛠 Structured learning builds  
-
-More advanced releases planned.
-
----
-
-## 🎯 2026 Objectives
-
-- Build a custom pentesting framework  
-- Achieve strong C++ proficiency  
+- Build a structured pentesting framework  
+- Achieve strong low-level programming skills  
 - Deep understanding of operating systems  
-- Contribute to serious security projects  
-- Refine discipline & technical depth  
+- Contribute to serious open-source security projects  
+- Develop disciplined, production-level coding habits  
+- Transition from learner to builder  
 
 ---
 
-## 🧩 Philosophy
+## 🧩 Principles
+
+- Understand before exploiting  
+- Build before relying  
+- Depth over speed  
+- Discipline over hype  
+
+---
+
+## 🧠 Philosophy
 
 > Control is an illusion.  
-> We don’t hack blindly.  
-> We understand the system.
+> Real power comes from understanding systems.
 
-Stay disciplined. Stay focused. 🚀
+Stay focused. Stay consistent. 🚀
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:003300&height=100&section=footer"/>
