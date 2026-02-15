@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm fsocietyx404</h1>
+<h3 align="center">17 y/o Cybersecurity Enthusiast from Germany 🇩🇪</h3>
 
-<!--
-**fsocietyx404/fsocietyx404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Cybersecurity+Learner;Future+Pentester;Python+Developer;C%2B%2B+Explorer;Hack+The+System+🖤" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🖤 About Me
+
+```diff
++ Name: fsocietyx404
++ Age: 17
++ Country: Germany
++ Focus: Cybersecurity / Pentesting
++ Learning: C++ & C#
++ Main Language: Python
